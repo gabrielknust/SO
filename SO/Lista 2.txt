@@ -1,0 +1,1 @@
+4 - Dentre os modelos de particionamento de memória, explique o modelo de partições fixas e suas possíveis formas de gerenciamento.
